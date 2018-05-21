@@ -1,4 +1,8 @@
 # OpenTerminalHere3
+## ダウンロード
+下記URLよりOpenTerminalHere3.app.zipをダウンロードして解凍してください。
+https://github.com/282Haniwa/OpenTerminalHere3/releases/tag/v1.0
+
 ## 使用方法
 1. `~/Applications/`にOpenTerminalHere3.appをダウンロードし、finderの上部メニューばへ`command`を押しながらドラッグ&ドロップする。
 1. アプリをクリックで起動するとFinderで開いているフォルダをターミナルで開くことができる。
