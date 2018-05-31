@@ -1,16 +1,20 @@
 # OpenTerminalHere3
 ## ダウンロード
 下記URLよりOpenTerminalHere3.app.zipをダウンロードして解凍してください。
-https://github.com/282Haniwa/OpenTerminalHere3/releases/tag/v1.0
+https://github.com/282Haniwa/OpenTerminalHere3/releases/tag/v1.1
 
 ## 使用方法
-1. `~/Applications/`にOpenTerminalHere3.appをダウンロードし、finderの上部メニューばへ`command`を押しながらドラッグ&ドロップする。
+1. `~/Applications/`にOpenTerminalHere3.appをダウンロードし、finderの上部メニューばへ`command`キーを押しながらドラッグ&ドロップする。
 1. アプリをクリックで起動するとFinderで開いているフォルダをターミナルで開くことができる。
 1. アプリに開きたいファイルかフォルダをドラッグ&ドロップすると、ファイルならファイルのあるフォルダ、フォルダならそのフォルダをターミナルで開く。
 
 開発元が未確認のアプリケーションであるという警告が出る場合は以下を参考にして実行できるようにしてください。
 https://support.apple.com/kb/PH25088?locale=ja_JP
 
+## iTerm2版
+以下のリンクからどうぞ
+OpenITerm2Here
+https://github.com/282Haniwa/OpenITerm2Here
 
 ---
 This software is released under the MIT License, see LICENSE.
