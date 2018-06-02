@@ -8,7 +8,7 @@ https://github.com/282Haniwa/OpenTerminalHere3/releases/tag/v1.1
 1. アプリをクリックで起動するとFinderで開いているフォルダをターミナルで開くことができる。
 1. アプリに開きたいファイルかフォルダをドラッグ&ドロップすると、ファイルならファイルのあるフォルダ、フォルダならそのフォルダをターミナルで開く。
 
-![Sample](https://github.com/282Haniwa/OpenTerminalHere3/resources/OpenTerminalHere3_sample.gif)
+![Sample](https://github.com/282Haniwa/OpenTerminalHere3/tree/master/resourcesOpenTerminalHere3_sample.gif)
 
 開発元が未確認のアプリケーションであるという警告が出る場合は以下を参考にして実行できるようにしてください。
 https://support.apple.com/kb/PH25088?locale=ja_JP
